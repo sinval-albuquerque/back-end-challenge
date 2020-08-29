@@ -23,6 +23,7 @@ in addition to allowing the creation of new records in the database from the sen
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
 - [TypeORM](https://typeorm.io/#/)
+- [PostgreSQL](https://www.postgresql.org/)
 - [Docker](https://www.docker.com/)
 - [Dbeaver](https://dbeaver.com/)
 - [Insomnia](https://insomnia.rest/)
