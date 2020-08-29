@@ -3,7 +3,7 @@ import AppError from '../errors/AppError';
 import Transaction from '../models/Transaction';
 import Category from '../models/Category';
 import TransactionsRepository from '../repositories/TransactionsRepository';
-import { getCustomRepository, getRepository, TransactionRepository } from 'typeorm';
+import { getCustomRepository, getRepository } from 'typeorm';
 
 interface Request {
   title: string;
