@@ -2,13 +2,6 @@
 
 <p align="center"> The present project was concluded on GoStack by Rocketseat! :rocket:  </p>
 
-<p align="center">
- <a href="#basic-overview">Basic Overview</a> •
- <a href="#functionalities">Functionalities</a> • 
- <a href="#techs">Techs</a> •
- <a href="#author">Author</a> 
-</p>  
-
 ## :arrow_forward: Basic Overview :mag:
 This is a small project to practice some __Database__ and __Backend__ concepts. Besides that, some ideas about how to develop the transaction management application, using
 __Node.js__ and __Typescript__. Also, it was used database with __TypeORM__ and sending files with __Multer__.
