@@ -7,6 +7,7 @@
  <a href="#functionalities">Functionalities</a> • 
  <a href="#techs">Techs</a> •
  <a href="#author">Author</a> 
+</p>  
 
 ## :arrow_forward: Basic Overview :mag:
 This is a small project to practice some __Database__ and __Backend__ concepts. Besides that, some ideas about how to develop the transaction management application, using
